@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Song One",
+    "artist": "Artist One",
+    "url": "song1.mp3",
+    "genre": "Pop"
+  },
+  {
+    "title": "Song Two",
+    "artist": "Artist Two",
+    "url": "song2.mp3",
+    "genre": "Rock"
+  },
+  {
+    "title": "Song Three",
+    "artist": "Artist Three",
+    "url": "song3.mp3",
+    "genre": "Jazz"
+  }
+]
